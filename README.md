@@ -1,5 +1,6 @@
 # MESA_CMB_NHID
-A deep learning based method for segmenting cerebral microbleeds and iron deposits
+A deep learning based method for segmenting cerebral microbleeds and iron deposits.
+Same as in https://github.com/NAL-UTHSCSA/CMB_NHID_Segmentation
 
 
 # CMB_NHID
