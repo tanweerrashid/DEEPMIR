@@ -1,9 +1,8 @@
-# MESA_CMB_NHID
+# Deep Learning-based Detection of Cerebral Microbleeds and Non-hemorrhage Iron Deposits
 A deep learning based method for segmenting cerebral microbleeds and iron deposits.
 Same as in https://github.com/NAL-UTHSCSA/CMB_NHID_Segmentation
 
 
-# CMB_NHID
 These are the scripts for a Multiclass 2D UNet variant for segmenting cerebral microbleeds and non-hemorrhage iron deposits in the basal ganglia. 
 The code is based on Python (3.6) , Keras and TensorFlow (1.15)
 
